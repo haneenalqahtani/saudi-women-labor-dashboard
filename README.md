@@ -1,4 +1,5 @@
 # Saudi Women in the Labor Market (2021–2026)
+![Dashboard](saudi_women_participation.pdf)
 Question: How has Saudi women's labor force participation changed since 2021?
 Data: GASTAT Labour Force Survey, 22 quarters (Q1 2021 – Q2 2026)
 Tools: Excel (cleaning), Power BI (dashboard)
